@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 Uma API RESTFULL para Products, seguindo o modelo de maturidade de Richardson.Foi desenvolvida com base na video aula da [Michelli Brito](https://www.youtube.com/watch?v=wlYvA2b1BWI "YOUTUBE")
-
+Implementa os metodos GET, POST, PUT e DELETE. 
 
 # Tecnologias utilizadas
 ## Back end
@@ -13,8 +13,6 @@ Uma API RESTFULL para Products, seguindo o modelo de maturidade de Richardson.Fo
 - Maven
 
 
-
-## Back end
 Pré-requisitos: Java 17
 
 
