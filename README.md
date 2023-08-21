@@ -3,9 +3,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
-Uma API RESTFULL para Products, seguindo o modelo de maturidade de Richardson.Foi desenvolvida com base na video aula da Michelli Brito.[Michelli Brito](https://www.youtube.com/watch?v=wlYvA2b1BWI "YOUTUBE")
+Uma API RESTFULL para Products, seguindo o modelo de maturidade de Richardson.Foi desenvolvida com base na video aula da [Michelli Brito](https://www.youtube.com/watch?v=wlYvA2b1BWI "YOUTUBE")
 
 
 # Tecnologias utilizadas
